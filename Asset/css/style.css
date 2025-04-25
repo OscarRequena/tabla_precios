@@ -1,0 +1,84 @@
+*{
+    margin-top: 2%;
+
+}
+.container {
+    display: block;
+    margin: 20px auto auto 20%;
+    width: 60%;
+    border-radius: 10px;
+
+}
+
+.container table {
+    justify-content: center;
+    margin-left: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2);
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    border-collapse: collapse;
+}
+
+th, td {
+    font-size: 30px;
+    padding: 10px;
+}
+
+b {
+    font-size: 50px;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 100px;
+}
+
+table thead {
+    background: #efefef;
+}
+
+.header-blue{
+    background: blue;
+    color: white;
+}
+tbody tr {
+    border: 1px solid aquamarine;
+}
+
+.fondo-blue{
+    background: #bee0ff;
+}
+
+a {
+    border: 1px solid blue;
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 5px;
+    background: #efefef;
+}
+
+.anaranjado{
+    border: 1px;
+    font-size: 30px;
+    border-radius: 20px;
+    padding: 5px;
+    background: orange;
+    color: white;
+    position:absolute;
+    top: 90px;
+    left: 1090px;
+}
+
+.yellow{
+    color: yellow;
+}
+.verde{
+    color: green;
+}
+.plomo{
+    color: gray;
+}
+.boton-blue{
+    background: blue;
+    color: white;
+}
